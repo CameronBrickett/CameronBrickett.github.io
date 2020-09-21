@@ -1,14 +1,9 @@
 
-h1{color: black;
+h1{color: red;
 magrin-left: 15px;
 }
 p{
-Color: #fc9d03;
+Color: black;
 margin-left: 15px;
   font-size: 20px;
-}
-div.ex1 {
-  width: 1600px;
-  margin: auto;
-  border: 3px solid #73AD21;
 }
